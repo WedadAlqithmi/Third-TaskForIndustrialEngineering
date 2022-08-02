@@ -1,3 +1,7 @@
 # Third-TaskForIndustrialEngineering
 
-https://github.com/Ghaxxai/task-3
+for this task I wrote the Functional Requriment& Non-Functional Requirment for some tasks 
+
+
+
+you can check the pdf file to see more 
